@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             public void onInit(int i) {
                 ts.setLanguage(Locale.ENGLISH);
                 ts.setSpeechRate(2f);
-            }
+   git          }
         });
 
         b1.setOnClickListener(new View.OnClickListener() {
